@@ -15,7 +15,7 @@ You can confirm the mod is installed correctly in kOS with `print ADDONS:AVAILAB
 
 The following custom suffixes are added to kerbalism module types
 
-### `ExperimentModule`
+### `Experiment`
 
 * `DEPLETED` - returns `true` if this experiment has a limited sample size and it has been used
   up. Never returns `true` for experiments which collect their samples from the environment. This
