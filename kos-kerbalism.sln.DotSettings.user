@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FGameData_002FKerbalism_002FKerbalism112_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FGameData_002FKerbalism_002FKerbalismBootstrap_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FGameData_002FKerbalism_002FKerbalism_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FGameData_002FkOS_002FPlugins_002FkOS_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FGameData_002FkOS_002FPlugins_002FkOS_002ESafe_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FKSP_005FData_002FManaged_002FAssembly_002DCSharp_002Dfirstpass_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FKSP_005FData_002FManaged_002FAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FKSP_005FData_002FManaged_002FUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FKSP_005FData_002FManaged_002FUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fbranan_002Fksp_002Fksp_002Ddev_002FKSP_005FData_002FManaged_002FUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/branan/ksp/ksp-dev/GameData/Kerbalism/Kerbalism112.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
