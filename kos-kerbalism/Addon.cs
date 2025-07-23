@@ -13,6 +13,7 @@ namespace kOS.AddOns.Kerbalism
         {
             PartModuleFieldsFactory.RegisterConstructionMethod(typeof(KERBALISM.Experiment), (module, shared) => new ExperimentModuleFields(module, shared));
             PartModuleFieldsFactory.RegisterConstructionMethod(typeof(KERBALISM.HardDrive), (module, shared) => new HardDriveModuleFields(module, shared));
+            PartModuleFieldsFactory.RegisterConstructionMethod(typeof(KERBALISM.ProcessController),  (module, shared) => new ProcessControllerModuleFields(module, shared));
         }
 
         public Addon(SharedObjects shared) : base(shared)

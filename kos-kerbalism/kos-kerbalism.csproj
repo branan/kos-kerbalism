@@ -69,6 +69,7 @@
         <Compile Include="Addon.cs" />
         <Compile Include="ExperimentModuleFields.cs" />
         <Compile Include="HardDriveModuleFields.cs" />
+        <Compile Include="ProcessControllerModuleFields.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
